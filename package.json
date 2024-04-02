@@ -1,0 +1,12 @@
+{
+  "name": "gamerji-socket-api",
+  "version": "1.0.1",
+  "description": "socket handler",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "ziggcoder",
+  "license": "ISC"
+}
