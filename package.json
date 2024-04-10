@@ -8,5 +8,9 @@
     "start": "nodemon server.js"
   },
   "author": "ziggcoder",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "deps": "^1.0.0",
+    "peer": "^1.0.2"
+  }
 }
