@@ -8,5 +8,13 @@
     "start": "nodemon server.js"
   },
   "author": "ziggcoder",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "socket.io": "^4.7.5"
+  }
 }
