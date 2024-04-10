@@ -10,7 +10,11 @@
   "author": "ziggcoder",
   "license": "ISC",
   "dependencies": {
-    "deps": "^1.0.0",
-    "peer": "^1.0.2"
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "socket.io": "^4.7.5"
   }
 }
