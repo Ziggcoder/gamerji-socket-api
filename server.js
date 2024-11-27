@@ -45,6 +45,6 @@ db.mongoose.connect(connectionString, {
     console.log(err);
 });
 
-server.listen(PORT, () => {
+server.listen(PORT,"localhost", () => {
     console.log(`Server is running on port ${PORT}`);
 });
